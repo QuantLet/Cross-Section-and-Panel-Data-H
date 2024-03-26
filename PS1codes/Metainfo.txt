@@ -1,0 +1,13 @@
+Cross-Section-and-Panel-Data-H
+
+Name of QuantLet : 'PS1codes'
+
+Published in : 'Cross-Section-and-Panel-Data-H' 
+
+Description : 'Coding for the PS1 exercise class for 2024 Cross-Section-and-Panel-Data-H'
+
+Keywords : 'Simulation , Chebyshev'
+
+Author : 'Xiaorui ZUO'
+
+Submitted : Wed, Mar 27 2024
